@@ -3,3 +3,4 @@
 +import { ticketOptions } from '@/src/data/ticketOptions';
 
  export const calculatePrice = (quantity: number): number => {
+ }

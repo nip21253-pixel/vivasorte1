@@ -4,3 +4,4 @@
 +import { SunizeCreateTransactionRequest, SunizeTransaction } from '@/src/types/lottery';
 
  export async function POST(request: NextRequest) {
+ }

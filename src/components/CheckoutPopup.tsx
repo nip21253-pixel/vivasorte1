@@ -6,3 +6,4 @@
 +import { SunizeTransaction } from '@/src/types/lottery';
 
  interface CheckoutPopupProps {
+ }
